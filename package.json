@@ -1,0 +1,30 @@
+{
+  "name": "namestats",
+  "version": "0.0.1",
+  "description": "Names Stats ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/namestats.git"
+  },
+  "keywords": [
+    "names",
+    "stats"
+  ],
+  "author": "Jesus Edel Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/namestats/issues"
+  },
+  "homepage": "https://github.com/Cereceres/namestats#readme",
+  "dependencies": {
+    "numbers": "^0.6.0"
+  },
+  "devDependencies": {
+    "faker": "^3.0.1",
+    "mocha": "^2.3.4"
+  }
+}
